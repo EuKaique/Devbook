@@ -1,6 +1,3 @@
 {
-    "books": [
-        {"name": "Livro 1"},
-        {"name": "Livro 2"}
-    ]
+  "books": []
 }
